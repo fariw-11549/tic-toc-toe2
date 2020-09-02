@@ -1,7 +1,7 @@
 {
   "name": "tic-toc-app",
   "version": "0.1.0",
-  "homepage": "https://github.io/fariw-11549/tic-toc-toe2",
+  "homepage": "https://fariw-11549.github.io/tic-toc-toe2/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
