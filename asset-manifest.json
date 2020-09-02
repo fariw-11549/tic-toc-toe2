@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fariw-11549/tic-toc-toe2/static/css/main.55d72bbf.chunk.css",
+    "main.js": "/fariw-11549/tic-toc-toe2/static/js/main.54739cfa.chunk.js",
+    "main.js.map": "/fariw-11549/tic-toc-toe2/static/js/main.54739cfa.chunk.js.map",
+    "runtime-main.js": "/fariw-11549/tic-toc-toe2/static/js/runtime-main.a99da9cf.js",
+    "runtime-main.js.map": "/fariw-11549/tic-toc-toe2/static/js/runtime-main.a99da9cf.js.map",
+    "static/js/2.92f63459.chunk.js": "/fariw-11549/tic-toc-toe2/static/js/2.92f63459.chunk.js",
+    "static/js/2.92f63459.chunk.js.map": "/fariw-11549/tic-toc-toe2/static/js/2.92f63459.chunk.js.map",
+    "index.html": "/fariw-11549/tic-toc-toe2/index.html",
+    "precache-manifest.b9fea7df97e61e48e2d5101651785e71.js": "/fariw-11549/tic-toc-toe2/precache-manifest.b9fea7df97e61e48e2d5101651785e71.js",
+    "service-worker.js": "/fariw-11549/tic-toc-toe2/service-worker.js",
+    "static/css/main.55d72bbf.chunk.css.map": "/fariw-11549/tic-toc-toe2/static/css/main.55d72bbf.chunk.css.map",
+    "static/js/2.92f63459.chunk.js.LICENSE.txt": "/fariw-11549/tic-toc-toe2/static/js/2.92f63459.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a99da9cf.js",
+    "static/js/2.92f63459.chunk.js",
+    "static/css/main.55d72bbf.chunk.css",
+    "static/js/main.54739cfa.chunk.js"
+  ]
+}
